@@ -1,0 +1,14 @@
+@startuml
+
+    class Graph<V> {
+        - Map<V, Set<V>> adjacencyList
+        + boolean addVertex(V v)
+        + boolean addEdge(V v1, V v2)
+        + Set<V> obtainAdjacents(V v) throws Exception
+        + boolean containsVertex(V v)
+        + List<V> onePath(V v1, V v2)
+        + String toString()
+    }
+
+
+@enduml
