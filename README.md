@@ -23,5 +23,44 @@ Se utiliza el método de **Montecarlo** para calcular una aproximación al núme
 🔗 **Diagrama UML**:
 
 
+## 📌 **Práctica 2: Juego de la Vida **
+
+📖 **Descripción**:
+Implementación del **Juego de la Vida de Conway** con un tablero de 30x30. Se leen los estados desde un archivo o se generan aleatoriamente.
+
+🔢 **Complejidad Temporal**: 
+
+- **Lectura del archivo**: O(n^2)
+- **Simulación del juego (por generación)**: O(n^2)
+- **Actualizar el estado del tablero**: O(n^2)
+
+🔗 **Diagrama UML**:
+
+
+## 📌 **Práctica 3: Búsqueda de un Camino en un Grafo **
+
+📖 **Descripción**:
+Implementación de una estructura de datos Grafo con búsqueda de caminos usando Búsqueda en Profundidad (DFS).
+
+🔢 **Complejidad Temporal**: 
+
+- **Añadir vértice**: O(1)
+- **Añadir arista**: O(1)
+- **Obtener adyacentes**: O(1)
+- **Buscar camino (DFS)**: O(V+E)
+
+🔗 **Diagrama UML**:
+
+
+## 🔧 **Cómo Ejecutar el Proyecto**
+
+**Requisitos**:
+- Java 17+
+- Maven (si usas pom.xml)
+
+
+
+
+
 
 
