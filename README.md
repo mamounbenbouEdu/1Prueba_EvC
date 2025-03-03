@@ -21,7 +21,7 @@ Se utiliza el método de **Montecarlo** para calcular una aproximación al núme
 - **Cálculo final**: \(O(1)\)  
 
 
-## 📌 **Práctica 2: Juego de la Vida **
+## 📌 **Práctica 2: Juego de la Vida**
 
 📖 **Descripción**:
 Implementación del **Juego de la Vida de Conway** con un tablero de 30x30. Se leen los estados desde un archivo o se generan aleatoriamente.
@@ -34,7 +34,7 @@ Implementación del **Juego de la Vida de Conway** con un tablero de 30x30. Se l
 
 
 
-## 📌 **Práctica 3: Búsqueda de un Camino en un Grafo **
+## 📌 **Práctica 3: Búsqueda de un Camino en un Grafo**
 
 📖 **Descripción**:
 Implementación de una estructura de datos Grafo con búsqueda de caminos usando Búsqueda en Profundidad (DFS).
