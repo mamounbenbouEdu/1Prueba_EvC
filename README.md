@@ -20,8 +20,6 @@ Se utiliza el método de **Montecarlo** para calcular una aproximación al núme
 - **Verificación dentro del círculo**: \(O(1)\)  
 - **Cálculo final**: \(O(1)\)  
 
-🔗 **Diagrama UML**:
-
 
 ## 📌 **Práctica 2: Juego de la Vida **
 
@@ -34,7 +32,6 @@ Implementación del **Juego de la Vida de Conway** con un tablero de 30x30. Se l
 - **Simulación del juego (por generación)**: O(n^2)
 - **Actualizar el estado del tablero**: O(n^2)
 
-🔗 **Diagrama UML**:
 
 
 ## 📌 **Práctica 3: Búsqueda de un Camino en un Grafo **
@@ -49,7 +46,7 @@ Implementación de una estructura de datos Grafo con búsqueda de caminos usando
 - **Obtener adyacentes**: O(1)
 - **Buscar camino (DFS)**: O(V+E)
 
-🔗 **Diagrama UML**:
+
 
 
 ## 🔧 **Cómo Ejecutar el Proyecto**
